@@ -1,29 +1,9 @@
 # Backlog do Projeto: Sistema de Gestão de Pedidos para Empresa Calçadista
 
 **Versão:** MVP 1.0.0  
-**Tecnologias:** Flask (Backend), HTML/CSS/JavaScript (Frontend), MySQL (Banco de Dados) Não definido ainda
+**Tecnologias:** Flask (Backend), HTML/CSS/JavaScript (Frontend), MySQL (Banco de Dados) Não definido ainda  
 **Aluno:** Guilherme Henrique Leão Pereira  
 **Curso:** Tecnologia em Gestão da Produção Industrial - FATEC Franca
-
----
-
-## Contexto do Cliente
-
-**Segmento:** Fabricação de solados para calçados  
-**Localização:** Franca/SP  
-**Tipo:** Empresa familiar de pequeno porte  
-**Clientes-alvo:** Fabricantes de calçados de pequeno, médio e grande porte que terceirizam produção de solados
-
-**Missão:** Fabricar e fornecer solados conforme as necessidades dos clientes, consolidando-se no mercado com uma base de clientes confiáveis.
-
-**Visão:** Crescer no ramo sem perder qualidade dos produtos e serviços, tornando-se uma fábrica de médio ou grande porte na cidade.
-
-**Valores:** 
-- Qualidade na fabricação dos produtos
-- Pontualidade nas entregas
-- Atendimento às necessidades dos clientes
-
-**Desafio atual:** Oscilação de preços de matérias-primas e alta competitividade no mercado de Franca. Gestão manual (cadernos e mensagens) gera riscos de perda de informações, falhas em prazos e dificuldade no controle financeiro.
 
 ---
 
@@ -241,35 +221,6 @@ O MVP será considerado bem-sucedido se atender aos valores da empresa:
 
 ---
 
-## Metodologia de Validação
-
-- **Testes com usuário real:** Seu pai testará o sistema em cenários reais de trabalho
-- **Feedback contínuo:** Reuniões semanais para ajustes
-- **Iterações rápidas:** Correções imediatas de problemas críticos
-- **Métricas de sucesso:** Tempo economizado, redução de erros, satisfação do usuário
-
----
-
 **Observação:** Este backlog segue a técnica MoSCoW para garantir que o MVP contenha apenas o essencial para validar a solução, permitindo lançamento rápido e coleta de feedback real do usuário final.
 
 ---
-
-## Impacto Esperado do MVP nos Objetivos Estratégicos
-
-**Consolidação no mercado (Missão):**
-- Sistema profissional transmite confiança aos clientes
-- Histórico completo facilita relacionamento de longo prazo
-- Comunicação organizada através do chat
-
-**Crescimento sustentável (Visão):**
-- Base tecnológica escalável suporta aumento de demanda
-- Dados organizados permitem análises estratégicas futuras
-- Redução de custos operacionais libera recursos para investimento
-
-**Qualidade e pontualidade (Valores):**
-- Notificações automáticas evitam atrasos
-- Cálculos precisos melhoram planejamento financeiro
-- Rastreabilidade completa dos pedidos garante qualidade no atendimento
-
-**Vantagem competitiva:**
-Em um mercado competitivo como Franca, ter um sistema digital diferencia a empresa de concorrentes que ainda operam manualmente, permitindo atender melhor tanto pequenos quanto grandes clientes.
