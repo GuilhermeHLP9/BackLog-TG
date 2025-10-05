@@ -3,7 +3,7 @@
 **Versão:** MVP 1.0.0  
 **Tecnologias:** Flask (Backend), HTML/CSS/JavaScript (Frontend), MySQL (Banco de Dados) Não definido ainda  
 **Aluno:** Guilherme Henrique Leão Pereira  
-**Curso:** Tecnologia em Gestão da Produção Industrial - FATEC Franca
+**Curso:** Analise e Desenvolvimento de Sistemas - FATEC Franca
 
 ---
 
